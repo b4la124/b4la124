@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é j
+Meu nome é josé
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -9,4 +9,4 @@ Meu nome é j
 
 ![](https://media.tenor.com/MHtnl9iadvgAAAAM/rikoamv-sukuna.gif)
 
-
+<=========================>
